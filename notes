@@ -1,0 +1,11 @@
+https://users.dcc.uchile.cl/~pcamacho/tutorial/crypto/openssl/openssl_intro.html
+
+https://stackoverflow.com/questions/21297139/how-do-you-sign-a-certificate-signing-request-with-your-certification-authority
+
+https://stackoverflow.com/questions/37016795/mutual-authentication-when-client-gives-you-their-public-certificate
+
+
+note: Mutual auth with self-signed certs is also called "Origin Bound"
+
+note: for mutual_authentication, both client and server must be signed with CA cert,
+      which 
